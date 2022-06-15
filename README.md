@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klef99&label=Profile%20views&color=0e75b6&style=flat" alt="klef99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klef99" alt="klef99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=klef99&row=1&column=7" alt="klef99" /></a> </p>
 
 - 🌱 I’m currently learning **Pytorch, Pandas, PostgreSQL**
 
